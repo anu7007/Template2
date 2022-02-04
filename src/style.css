@@ -59,4 +59,9 @@ body{
             display: flex;
         }
         
-        
+        .asideheading{
+            color:royalblue;
+        }
+.PageHeading{
+    color: blue;
+}
